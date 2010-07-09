@@ -1,0 +1,11 @@
+body            { font-size: 62.5%; text-align: center; }
+#wrapper        { width: 80%; text-align: left; margin: 1em auto; }
+h2, form        { padding: 1em 2em; }
+form legend     { display: none; }
+.separator      { margin: 2em 0; }
+.field          { margin: 1em 0; }
+.field label    { line-height: 1.8em; }
+.amount-box     { width: 2em; }
+
+
+

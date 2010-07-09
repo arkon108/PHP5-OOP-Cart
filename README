@@ -1,0 +1,20 @@
+
+This is an example of a Shopping Cart implemented using PHP5 OOP features.
+This was initially a solution for a test required for a job position 
+(this was in 2009, so I hope they changed the test since last year :)
+Expanding on the original solution, I started building a PHP5 OOP features example,
+sprinkled with some design patterns implementation.
+
+The original test specified the Cart to be implemented with Singleton pattern, be able to add and remove
+items to Cart and to have a Perstistance object which stores Cart data between requests.
+
+I implemented Decorator pattern on a Product discount, as a "real world" example of Decorators.
+The persistance object is set to a cart using the Dependancy Injection (it's really that simple :)
+
+I tried to explain as much as possible what's going on in the code, 
+so if you're an experienced developer you might find my comments somewhat
+redundant ;)
+
+You are free to use, modify and extend this code.
+If you find an error or a bug, please let me know at
+sasa.tomislav [ AT ] mataic.com
